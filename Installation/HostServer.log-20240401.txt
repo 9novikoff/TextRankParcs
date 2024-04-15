@@ -1,0 +1,9 @@
+2024-04-01 12:03:52.201 +03:00 [INF] Accepting connections from clients, IP: 172.18.144.1, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2024-04-01 12:18:32.070 +03:00 [INF] Accepting connections from clients, IP: 192.168.0.103, port: 7654 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2024-04-01 12:19:53.127 +03:00 [INF] Accepting connections from clients, IP: 192.168.0.103, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2024-04-01 12:24:13.281 +03:00 [INF] Accepting connections from clients, IP: 192.168.0.103, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2024-04-01 17:10:05.384 +03:00 [INF] Accepting connections from clients, IP: 192.168.0.103, port: 1234 { SourceContext: "HostServer.TCPHostServer", ThreadId: 1 }
+2024-04-01 17:18:56.217 +03:00 [INF] Starting a new job with priority 0. Username:  { SourceContext: "HostServer.Server", ThreadId: 16 }
+2024-04-01 17:18:56.402 +03:00 [INF] Job N 1 has finished { SourceContext: "HostServer.Server", ThreadId: 16 }
+2024-04-01 17:27:54.919 +03:00 [INF] Job N 1 disconnected { SourceContext: "HostServer.TCPHostServer", ThreadId: 14 }
+2024-04-01 17:27:54.923 +03:00 [INF] Job N 1 has finished { SourceContext: "HostServer.Server", ThreadId: 14 }

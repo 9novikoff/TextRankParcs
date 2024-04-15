@@ -1,0 +1,4 @@
+2024-03-05 01:09:49.192 +02:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-03-05 01:09:49.248 +02:00 [INF] Accepting connections from clients, IP: 172.29.176.1, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-03-05 01:27:54.822 +02:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-03-05 01:27:54.861 +02:00 [INF] Accepting connections from clients, IP: 172.29.176.1, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }

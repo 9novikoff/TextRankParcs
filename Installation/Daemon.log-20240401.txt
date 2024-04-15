@@ -1,0 +1,30 @@
+2024-04-01 12:19:55.507 +03:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 12:19:55.548 +03:00 [INF] Accepting connections from clients, IP: 192.168.0.103, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 12:24:16.760 +03:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 12:24:16.803 +03:00 [INF] Accepting connections from clients, IP: 192.168.0.103, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.277 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:1 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 4, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.277 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:2 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 5, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.285 +03:00 [INF] Calcutations finished on point 1:1 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 4, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.285 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:3 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 7, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.285 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:4 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 6, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.285 +03:00 [INF] Calcutations finished on point 1:2 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 5, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.293 +03:00 [INF] Calcutations finished on point 1:4 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 6, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 13:39:35.293 +03:00 [INF] Calcutations finished on point 1:3 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 7, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.292 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 2:2 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 9, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.292 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 2:3 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 10, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.292 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 2:4 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 11, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.292 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 2:1 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 8, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.298 +03:00 [INF] Calcutations finished on point 2:2 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 9, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.306 +03:00 [INF] Calcutations finished on point 2:4 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 11, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.302 +03:00 [INF] Calcutations finished on point 2:3 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 10, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 14:43:38.309 +03:00 [INF] Calcutations finished on point 2:1 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 8, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:10:01.081 +03:00 [WRN] Environment Variable PARCS_HOST_SERVER_IP_ADDRESS is not set { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:10:01.122 +03:00 [INF] Accepting connections from clients, IP: 192.168.0.103, port: 2222 { SourceContext: "DaemonPr.Daemon", ThreadId: 1, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.372 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:3 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 6, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.372 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:4 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 7, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.374 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:2 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 5, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.380 +03:00 [INF] Calcutations finished on point 1:4 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 7, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.383 +03:00 [INF] Calcutations finished on point 1:2 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 5, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.379 +03:00 [INF] Calcutations finished on point 1:3 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 6, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.386 +03:00 [INF] Starting class NewMatrixModule.MultMatrix on point 1:1 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 4, MachineName: "DESKTOP-K4OTEQF" }
+2024-04-01 17:18:56.397 +03:00 [INF] Calcutations finished on point 1:1 ... { SourceContext: "DaemonPr.ModuleExecutor", ThreadId: 4, MachineName: "DESKTOP-K4OTEQF" }
